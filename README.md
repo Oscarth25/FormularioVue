@@ -2,6 +2,7 @@
 
 **Unidad V: Frameworks de JavaScript**  
 **Curso:** LR-20261-INF-4314-LR02
+**Estudiante:** LR-15-10423
 
 ---
 
@@ -18,18 +19,18 @@ Aplicación web desarrollada con **Vue 3 + Vite** que implementa un formulario i
 ## 📁 Estructura del proyecto
 
 ```
-actividad9/
-├── index.html
-├── vite.config.js
-├── package.json
-├── README.md
-└── src/
-    ├── main.js
-    ├── style.css
-    ├── App.vue
-    └── components/
-        ├── StudentForm.vue   ← Formulario con validación
-        └── DataTable.vue     ← Tabla de registros dinámica
-```
+FormularioVue/
+├──ndex.html
+├─vite.config.js
+├─package.json
+├─README.md
+└─src/
+    ├──main.js
+    ├──style.css
+    ├──App.vue
+    └──components/
+        ├──StudentForm.vue   ← Formulario con validación
+        └──DataTable.vue     ← Tabla de registros dinámica
+
 
 
